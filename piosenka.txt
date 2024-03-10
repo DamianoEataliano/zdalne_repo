@@ -1,32 +1,8 @@
-Miłość tak łączy dłonie
-Naszych nie złączył Bóg,
-Piękna jesteś w tym welonie,
-Ale w sercu moim żal,
-To co kochałem, odeszło w dal,
-Słowo mu dzisiaj dałaś,
-Serce on Twoje skradł,
-Zabrał nasze wspólne szczęście,
-zabrał czułych nocy czas,
-z tego kobierca niech niesie nas
+zwrotka-1.txt
 
-Weselny python, weselny python,
-Tańczy go Radom, tańczy go Bytom,
-Weselny python, weselny python,
-z moją kobitą przez Ciebie odbitą,
-Weselny python, weselny python,
-Tańczy go Radom, tańczy go Bytom
-Weselny python, weselny python
+refren-1.txt
 
-Teraz, gdy złudzeń nie ma,
-Szczęścia więc życzę Ci,
-Daj mi jeden dar na koniec,
-Zatańcz ten ostatni raz,
-i niech zazdroszczą, gdy niesie nas
+zwrotka-2.txt
 
-Weselny python, weselny python,
-Tańczy go Radom, tańczy go Bytom,
-Weselny python, weselny python,
-z moją kobitą przez Ciebie odbitą,
-Weselny python, weselny python,
-Tańczy go Radom, tańczy go Bytom
-Weselny python, weselny python
+refren-2.txt
+
