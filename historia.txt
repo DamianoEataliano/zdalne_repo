@@ -1,0 +1,91 @@
+commit 0a38c2c73a93f9f863f8f3a2c5b92014d743699d
+Author: Pythoniasty <python@pyth.on>
+Date:   Sun Mar 10 22:16:43 2024 +0100
+
+    Refren 2
+
+diff --git a/refren-2.txt b/refren-2.txt
+new file mode 100644
+index 0000000..5cfd2c4
+--- /dev/null
++++ b/refren-2.txt
+@@ -0,0 +1,7 @@
++Weselny python, weselny python,
++Tańczy go Radom, tańczy go Bytom,
++Weselny python, weselny python,
++z moją kobitą przez Ciebie odbitą,
++Weselny python, weselny python,
++Tańczy go Radom, tańczy go Bytom
++Weselny python, weselny python
+
+Author: Pythoniasty <python@pyth.on>
+Date:   Sun Mar 10 22:17:34 2024 +0100
+
+    Zwrotka 1
+
+diff --git a/zwrotka-1.txt b/zwrotka-1.txt
+new file mode 100644
+index 0000000..09dd474
+--- /dev/null
++++ b/zwrotka-1.txt
+@@ -0,0 +1,10 @@
++Miłość tak łączy dłonie
++Naszych nie złączył Bóg,
++Piękna jesteś w tym welonie,
++Ale w sercu moim żal,
++To co kochałem, odeszło w dal,
++Słowo mu dzisiaj dałaś,
++Serce on Twoje skradł,
++Zabrał nasze wspólne szczęście,
++zabrał czułych nocy czas,
++z tego kobierca niech niesie nas
+
+
+commit 72c1c8610c5f856a84950ea8a3c0bdcd262ef21d
+Author: Pythoniasty <python@pyth.on>
+Date:   Sun Mar 10 22:17:51 2024 +0100
+
+    Zwrotka 2
+
+diff --git a/zwrotka-2.txt b/zwrotka-2.txt
+new file mode 100644
+index 0000000..74053d5
+--- /dev/null
++++ b/zwrotka-2.txt
+@@ -0,0 +1,5 @@
++Teraz, gdy złudzeń nie ma,
++Szczęścia więc życzę Ci,
++Daj mi jeden dar na koniec,
++Zatańcz ten ostatni raz,
++i niech zazdroszczą, gdy niesie nas
+
+
+commit cc086ba8e0b6a7e5fe3272a02ba36ca0aef25ef0 (HEAD -> master)
+Author: Pythoniasty <python@pyth.on>
+Date:   Sun Mar 10 22:50:36 2024 +0100
+
+    Aktualizacja piosenka.txt
+
+commit ed94afeea0a437aa0b931d5251933e8a310f923c
+Author: Pythoniasty <python@pyth.on>
+Date:   Sun Mar 10 22:45:54 2024 +0100
+
+    Revert "Usuniecie lini z refrenu"
+
+    This reverts commit 4d697296c3cec70c1c89546566718ad1193748db.
+
+commit 4d697296c3cec70c1c89546566718ad1193748db
+Author: Pythoniasty <python@pyth.on>
+Date:   Sun Mar 10 22:45:02 2024 +0100
+
+    Usuniecie lini z refrenu
+
+commit c7c60e70152d9a20b933da75268b5d143a3bdf86
+Author: Pythoniasty <python@pyth.on>
+Date:   Sun Mar 10 22:43:45 2024 +0100
+
+    Naprawa po blednym revercie
+
+commit 0e1b1cc57e7866e0cc5dc9fcd0510d17ceb4a763
+Author: Pythoniasty <python@pyth.on>
+Date:   Sun Mar 10 22:40:16 2024 +0100
